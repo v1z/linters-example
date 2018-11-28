@@ -1,1 +1,1 @@
-# linters-example
+Example config for stylelint
