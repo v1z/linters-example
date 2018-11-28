@@ -1,0 +1,8 @@
+@custom-media --mobile-large (min-width: 414px);
+@custom-media --tablet (min-width: 640px);
+@custom-media --tablet-large (min-width: 1024px);
+@custom-media --desktop (min-width: 1366px);
+@custom-media --desktop-large (min-width: 1600px);
+@custom-media --desktop-extra-large (min-width: 1921px);
+@custom-media --retina (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi);
+@custom-media --ie (-ms-high-contrast: active), (-ms-high-contrast: none);

@@ -1,0 +1,20 @@
+.title {
+  color: transparent;
+  margin: 8px 0;
+  position: absolute;
+  transition: color 0.3s;
+  font-size: 1.2rem;
+  left: 100px;
+  top: 50%;
+
+  &:hover {
+    color: black !important;
+  }
+  @media (--tablet) {
+    margin: 16px 10px;
+  }
+  &_theme_small {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+}
